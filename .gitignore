@@ -1,0 +1,14 @@
+.venv/
+gps/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+.DS_Store
+*.zip
+cache/
+logs/
+
+# Datos externos y mapas descargados
+direcciones.csv
+madrid.graphml
